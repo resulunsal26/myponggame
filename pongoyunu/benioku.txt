@@ -1,0 +1,8 @@
+Bu iki kişilik bir oyundur.Oyun amacımız gol atmaktır.Oyun içi görüntüler "game pictures " adlı dosyada mevcuttur.Oyunnun kendisi output dosyasında mevcuttur.
+
+
+
+
+Oyun içi kontroller
+w/s: player 2 hareket
+yön tuşları :player 1 hareket
